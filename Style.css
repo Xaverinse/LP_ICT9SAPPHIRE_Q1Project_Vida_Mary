@@ -1,0 +1,45 @@
+h1 {
+	background: #79B881;
+	text-align: center;
+	border: solid;
+	border-color:#669470 #689E6F;
+	border-style: solid;
+	border-width: 10px;
+	text-emphasis-color: #DB6567;
+	font-family: "Courier New", sans-serif;
+	text-emphasis: 40px;
+	font-size: 50px;
+	margin: 0px;
+	padding: 25px;
+	color: #DB6668;
+}
+
+p {color: #DB6668;
+	text-align: center;
+	margin: 0 auto;
+	background: #EBB2B3;
+font-family: "Courier New", sans-serif;
+font-size: 40px;
+font-weight: bolder;
+border-color:#DB6567;
+border-width: 5px;
+border-style: solid;
+max-width: 80%;
+padding: 20px;
+}
+
+body {background-image:url(https://i.ibb.co/KsTyYwL/Background.png)}
+input {color: #475C43; size: "40"; background-color: #DBAAAB; line-height: 50px; font-size: 30px;}
+label {color: #DB6567; font-size: 50px; font-family: "Courier New", sans-serif; font-weight: bolder;}
+form {
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px;
+  background:#79B881;
+  border-width: 10px;
+  border-style: dashed;
+  border-color: #689E6F;
+  background-size: 200px 100px;
+  display: block;
+max-width: 50%;
+}
